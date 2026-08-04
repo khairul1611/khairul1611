@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF74A&center=true&multiline=true&repeat=false&width=435&lines=Hi%2C+I'm+Khairul+Islam!+;Exploring+SQA+%26+Cybersecurity.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CF74A&center=true&multiline=true&repeat=false&width=450&height=70&lines=Hi%2C+I'm+Khairul+Islam!+;Exploring+SQA+%26+Cybersecurity.)](https://git.io/typing-svg)
 
 # Hi 👋 I'm Khairul Islam
 
