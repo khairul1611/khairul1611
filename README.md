@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Khairul Islam
 
-<!--
-**khairul1611/khairul1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at Comilla University
 
-Here are some ideas to get you started:
+🔐 Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐞 Learning Bug Bounty & API Security
+
+🧪 Interested in SQA & Penetration Testing
+
+🌱 Currently learning:
+- REST API
+- Postman
+- Burp Suite
+- OWASP Top 10
+- Linux
+
+## Skills
+
+- HTML
+- CSS
+- PHP
+- MySQL
+- Postman
+- Git
+- Linux
+
+## Connect with me
+
+- LinkedIn: your-link
+- Email: khairul161121@gmail.com
